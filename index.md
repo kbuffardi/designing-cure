@@ -8,6 +8,7 @@
 [comment]: # (controls: true)
 [comment]: # (keyboard: true)
 [comment]: # (progress: true)
+[comment]: # (width: "1024")
 [comment]: # (markdown: { smartypants: true })
 [comment]: # (hash: false)
 [comment]: # (respondToHashChanges: false)
@@ -26,7 +27,7 @@ Kevin Buffardi, JoAna Brooks, David Alexander
         
 ### What is a CURE?
 
-* **C**ourse-based **U**ndergraduate **R**esearch **E**xperience
+* <u>**C**</u>ourse-based <u>**U**</u>ndergraduate <u>**R**</u>esearch <u>**E**</u>xperience
 * Undergraduate research is a high-impact practice
     * Traditional model is unscalable and inequitable
     * Integrating into a course involves **everyone**
