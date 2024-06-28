@@ -184,12 +184,24 @@ Kevin Buffardi, JoAna Brooks, David Alexander
 | How apparent || *0.940* | 6 | 4.739 | 0.733 |
 | Entrep. Mindset || *0.766* | 6 | 4.971 | 0.816 |
 
-[comment]: # (!!! data-auto-animate)
+[comment]: # (||| data-auto-animate)
 
 ### Outcomes
 
 <img src="CourseActivities.png" alt="Histogram of frequency of CURE activities" width="80%">
 </img>
+
+[comment]: # (!!!)
+
+### Post-Hoc Reflections
+
+* ChatGPT was made public in the midst of implementation
+* Initially:
+  * Suggest using `{red, green, blue}` as a palette
+  * Acknowledged problems, but no solutions offered
+* After a semester:
+  * Uses common student solutions to evaluate palettes
+  * Contrast used as a primary indicator of color combination accessibility
 
 [comment]: # (!!!)
 
