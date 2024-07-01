@@ -31,21 +31,32 @@ Kevin Buffardi, JoAna Brooks, David Alexander
 ### What is a CURE?
 
 * <u>**C**</u>ourse-based <u>**U**</u>ndergraduate <u>**R**</u>esearch <u>**E**</u>xperience
+    * Using **scientific practices**, 
+    * Addressing **novel** scientific questions, 
+    * Impact **beyond the classroom**, 
+    * **Collaboration**, and
+    * **Iteration**
+* Originates in life sciences
+    * Some [Computer Science classes](https://serc.carleton.edu/curenet/collection.html?q1=sercvocabs__513%3A8)
+        * Serving environmental science, genomics, etc.
+        * Upper-division courses
+
+[comment]: # (!!!)
+        
+### Why CURE?
+
 * Undergraduate research is a high-impact practice
     * Extracurricular research is unscalable and inequitable
     * Integrating into a course involves **everyone**
-* Originates in life sciences
-    * Some Computer Science classes
-        * Serving environmental science, genomics, etc.
-        * Upper-division courses
+* Reveal synergy between research and entrepreneurial mindset
 
 [comment]: # (!!!)
 
 ### CURE in CS1
 
-* Challenge 1: CS1 students
+* Primary challenge: Involve CS1 students in CURE
     * Participate in **research**
-    * On a **Human-Computer Interaction** (HCI) project
+    * On a **Human-Computer Interaction** (HCI) project **within the major**
     
 [comment]: # (!!!)
 
