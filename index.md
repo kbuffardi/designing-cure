@@ -98,10 +98,11 @@ Kevin Buffardi, JoAna Brooks, David Alexander
 <img src="car-protanomaly.png" alt="Another simulated perception, showing more colors that are difficult to distinguish" width="60%">
 </img>
 
+[comment]: # (||| data-auto-animate)
+
 ### Color Vision Project
 
 #### Group Roles
-
 
 * <u>**Analyzer**</u> <small>provided a palette of colors, evaluate to what degree its color combinations are problematic for people with a particular form of color blindness;</small>
 * <u>**Optimizer**</u> <small>provided a palette of colors, adjust the colors when necessary to optimize the percentage of people who will be able to easily detect the color differences;</small>
