@@ -36,10 +36,15 @@ Kevin Buffardi, JoAna Brooks, David Alexander
     * Impact **beyond the classroom**, 
     * **Collaboration**, and
     * **Iteration**
+
+[comment]: # (||| data-auto-animate)
+
+### What is a CURE?
+
 * Originates in life sciences
-    * Some [Computer Science classes](https://serc.carleton.edu/curenet/collection.html?q1=sercvocabs__513%3A8)
+    * At time of our study, few [Computer Science classes](https://serc.carleton.edu/curenet/collection.html?q1=sercvocabs__513%3A8)
         * Serving environmental science, genomics, etc.
-        * Upper-division courses
+        * In Upper-division courses
 
 [comment]: # (!!!)
         
@@ -54,7 +59,7 @@ Kevin Buffardi, JoAna Brooks, David Alexander
 
 ### CURE in CS1
 
-* Primary challenge: Involve CS1 students in CURE
+* Primary challenge: Involve **CS1** students in CURE
     * Participate in **research**
     * On a **Human-Computer Interaction** (HCI) project **within the major**
     
@@ -66,7 +71,32 @@ Kevin Buffardi, JoAna Brooks, David Alexander
 * Poor color combinations can be difficult to differentiate
     * Color blindness further complicates perception
 
-[comment]: # (!!! data-auto-animate)
+[comment]: # (||| data-auto-animate)
+
+### Color Vision Project
+
+#### Example [via /r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/comments/16jmv4o/car_sizes_from_1970s_to_present_oc/)
+
+<img src="car-colors.png" alt="Chart with 9 car manufacturers each color-coded" width="60%">
+</img>
+
+[comment]: # (||| data-auto-animate)
+
+### Color Vision Project
+
+#### Deuteranomaly simulation [via Pilestone simulator](https://pilestone.com/pages/color-blindness-simulator-1)
+
+<img src="car-deuteranomaly.png" alt="Previous chart with simulated perception, showing colors that are difficult to distinguish" width="60%">
+</img>
+
+[comment]: # (||| data-auto-animate)
+
+### Color Vision Project
+
+#### Protanomaly simulation [via Pilestone simulator](https://pilestone.com/pages/color-blindness-simulator-1)
+
+<img src="car-protanomaly.png" alt="Another simulated perception, showing more colors that are difficult to distinguish" width="60%">
+</img>
 
 ### Color Vision Project
 
@@ -153,7 +183,8 @@ Kevin Buffardi, JoAna Brooks, David Alexander
 
 ### Entrepreneurial Mindset
 
-* [Entrepreneurial Mindset](https://nfte.com/):
+* [CURE-E](https://www.csuchico.edu/curee/) project
+* Integrate [Entrepreneurial Mindset](https://nfte.com/):
     * Managing risk
     * Taking initiative
     * Persisting
@@ -161,12 +192,12 @@ Kevin Buffardi, JoAna Brooks, David Alexander
     * Collaboration
     * Seeking opportunities to improve people’s lives
 
-[comment]: # (|||)
+[comment]: # (||| data-auto-animate)
 
 ### Entrepreneurial Mindset
 
-* [Agile Software Development](https://agilemanifesto.org/):
-    * Managing risk: **Identifying MVP**
+* [Agile](https://agilemanifesto.org/) and [Lean](http://www.poppendieck.com/) software development:
+    * Managing risk: **Identifying [MVP](https://www.syncdev.com/minimum-viable-product)**
     * Taking initiative: **Novel solution to role**
     * Persisting: **Competency-based grading for cumulative requirements**
     * Learning from failure: **Adaptation in each iteration**
@@ -175,11 +206,11 @@ Kevin Buffardi, JoAna Brooks, David Alexander
 
 [comment]: # (!!!)
 
-### Lessons Learned
+### Formative Lessons Learned
 
-1. Research requires familiarity with some domain knowledge and scaffolding enough expertise does not scale well when the domain is too broad
-2. CUREs that do not have funding to provide incentives for stakeholder participation will suffer attrition in seeking valuable feedback
-3. Students are not experienced researchers and require more structured guidance on how to critically evaluate a product/result
+1. Research requires familiarity with some **domain knowledge** and scaffolding enough expertise does not scale well when the domain is too broad
+2. CUREs that do not have funding to provide **incentives for stakeholder participation** will suffer attrition in seeking valuable feedback
+3. Students are not experienced researchers and require more structured guidance on how to **critically evaluate a product/result**
 
 [comment]: # (!!!)
 
