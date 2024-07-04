@@ -116,7 +116,7 @@ Kevin Buffardi, JoAna Brooks, David Alexander
 #### Iterations
 
 * **Minimum Viable Product** (MVP): <p>Most value to the customer for the least effort</p>
-* **Project deliverables**: <p>Three cumulative iterations of MVPs</p>
+* **Project deliverables**: <p>Three **cumulative** iterations of MVPs</p>
 * **Adaptation**: <p>Reflect how next MVP could improve</p>
 
 [comment]: # (|||)
@@ -131,6 +131,7 @@ Kevin Buffardi, JoAna Brooks, David Alexander
     <th><small>Standard IO</small></th>
     <th><small>Decisions</small></th>
     <th><small>Iteration</small></th>
+    <td><small>Functions</small></th>
   </tr>
   <tr>
     <td> &nbsp; </td>
@@ -139,6 +140,7 @@ Kevin Buffardi, JoAna Brooks, David Alexander
     <td><small>Console input & output</small></td>
     <td><small>3+ different controls</small></td>
     <td><small>1+ loop</small></td>
+    <td><small>2+ return types</small></td>
   </tr>
 </table>
 
@@ -217,15 +219,23 @@ Kevin Buffardi, JoAna Brooks, David Alexander
 
 ### Outcomes
 
+* Post-semester surveys on connections to STEM research
+  * Positive averages for each concept/activity
+  * Some room for improvement
+
+[comment]: # (||| data-auto-animate)
+
+### Outcomes
+
 | Theme || *a* | Max | Mean | s.d. |
 | ----- || ----- | ----- | ----- | ----- |
-| Self- efficacy || *0.789* | 5 | 3.615 | 0.559 |
-| Identity || *0.884* | 5 | 3.809 | 0.728 |
-| Community || *0.856* | 6 | 4.258 | 0.941 |
-| Values || *0.891* | 6 | 4.742 | 0.992 |
+| Self-efficacy || *0.789*\* | 5 | 3.615 | 0.559 |
+| Identity || *0.884*\* | 5 | 3.809 | 0.728 |
+| Community || *0.856*\* | 6 | 4.258 | 0.941 |
+| Values || *0.891*\* | 6 | 4.742 | 0.992 |
 | How often || 0.678 | 4 | 3.619 | 0.424 |
-| How apparent || *0.940* | 6 | 4.739 | 0.733 |
-| Entrep. Mindset || *0.766* | 6 | 4.971 | 0.816 |
+| How apparent || *0.940*\* | 6 | 4.739 | 0.733 |
+| Entrep. Mindset || *0.766*\* | 6 | 4.971 | 0.816 |
 
 [comment]: # (||| data-auto-animate)
 
@@ -257,7 +267,8 @@ Kevin Buffardi, JoAna Brooks, David Alexander
 > <small style="text-align: left; width: 100%;">Kevin Buffardi, JoAna Brooks, and David Alexander. 2024. Designing a CURE for CS1. In Proceedings of the 2024 ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE '24). Association for Computing Machinery, Milan, Italy.</small>
 
 <small>Or import the following *BibTeX* reference:</small> 
-> <small style="text-align: left; width: 100%;"> @article{buffardi2024cure, author = {Buffardi, Kevin and Brooks, JoAna and Alexander, David}, title = {Designing a CURE for CS1}, year = {2024}, issue_date = {July 2024}, publisher = {Association for Computing Machinery}, address = {Milan, Italy}} 
+> <small style="text-align: left; width: 100%;"> @inproceedings{10.1145/3649217.3653573,
+author = {Buffardi, Kevin and Brooks, JoAna and Alexander, David}, title = {Designing a CURE for CS1}, year = {2024}, isbn = {9798400706004}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, url = {https://doi.org/10.1145/3649217.3653573}, doi = {10.1145/3649217.3653573}, pages = {660–666}, numpages = {7}, keywords = {accessibility, color blindness, cs1, cure, entrepreneurial mindset, entrepreneurship, image manipulation}, location = {Milan, Italy}, series = {ITiCSE 2024}}
 </small>
 
 [comment]: # (!!!)
