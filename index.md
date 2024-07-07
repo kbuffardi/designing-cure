@@ -267,7 +267,7 @@ Kevin Buffardi, JoAna Brooks, David Alexander
 
 <small>Or import the following *BibTeX* reference:</small> 
 > <small style="text-align: left; width: 100%;"> @inproceedings{10.1145/3649217.3653573,
-author = {Buffardi, Kevin and Brooks, JoAna and Alexander, David}, title = {Designing a CURE for CS1}, year = {2024}, isbn = {9798400706004}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, url = {https://doi.org/10.1145/3649217.3653573}, doi = {10.1145/3649217.3653573}, pages = {660–666}, numpages = {7}, location = {Milan, Italy}, series = {ITiCSE 2024}}
+author = {Buffardi, Kevin and Brooks, JoAna and Alexander, David}, title = {Designing a CURE for CS1}, year = {2024}, isbn = {9798400706004}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, url = {https://doi.org/10.1145/3649217.3653573/}, doi = {10.1145/3649217.3653573}, pages = {660–666}, numpages = {7}, location = {Milan, Italy}, series = {ITiCSE 2024}}
 </small>
 
 [comment]: # (!!!)
