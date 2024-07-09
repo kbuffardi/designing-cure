@@ -250,11 +250,73 @@ Kevin Buffardi, JoAna Brooks, David Alexander
 
 * ChatGPT was made public in the midst of implementation
 * Initially:
-  * Suggest using `{red, green, blue}` as a palette
-  * Acknowledged problems, but no solutions offered
-* After a semester:
-  * Uses common student solutions to evaluate palettes
-  * Contrast used as a primary indicator of color combination accessibility
+  * Poor solution
+  * Acknowledged problems, but no corrections offered
+
+[comment]: # (||| data-auto-animate)
+
+### ChatGPT 3.5 
+
+Excerpt:
+
+```
+const std::array<std::string, 6> colorPalette = 
+  { "Red", "Green", "Blue", "Yellow", "Purple", "Orange" };
+
+int main() {
+  std::cout << "Color palette for people with color blindness:" << std::endl; 
+  for (const auto &color : colorPalette) { 
+    std::cout << color << std::endl; 
+  } 
+  return 0;
+}
+```
+
+**Me: that is a terrible solution**
+
+[comment]: # (||| data-auto-animate)
+
+### ChatGPT 3.5
+
+*I apologize if the previous solution did not meet your requirements. It was an example of a simple program that illustrates how to create a color palette. There are different ways to create a color palette that is accessible to people with color blindness and some of the best practices include:*
+
+[...] Avoid using similar colors, such as red and green, which can be difficult to distinguish for people with color blindness
+
+**Me: your first two colors are literally red and green**
+
+[comment]: # (||| data-auto-animate)
+
+### ChatGPT 3.5 
+
+Excerpt, **after the semester**
+
+```
+struct Color { int r, g, b; // Constructor
+  Color(int red, int green, int blue) : r(red), g(green), b(blue) {} 
+}; 
+
+double calculateColorDistance(const Color& c1, const Color& c2) 
+{ // Euclidean distance between two colors in RGB space 
+  return sqrt(pow(c1.r - c2.r, 2) + pow(c1.g - c2.g, 2) + pow(c1.b - c2.b, 2)); 
+} 
+
+Color generateDistinctColor(const Color& baseColor, double minDistance) 
+{ // Generate a color with a minimum distance from the base color 
+  Color newColor = baseColor; // Randomly adjust the RGB values 
+  newColor.r = (baseColor.r + rand() % 256) % 256;
+  newColor.g = (baseColor.g + rand() % 256) % 256; 
+  newColor.b = (baseColor.b + rand() % 256) % 256; 
+  
+  while( calculateColorDistance(baseColor, newColor) < minDistance ) {
+    newColor.r = (newColor.r + rand() % 256) % 256; 
+    newColor.g = (newColor.g + rand() % 256) % 256; 
+    newColor.b = (newColor.b + rand() % 256) % 256; 
+  } 
+  return newColor; 
+}
+```
+
+...and so on.
 
 [comment]: # (!!!)
 
